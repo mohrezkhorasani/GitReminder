@@ -89,7 +89,7 @@ For running even before login (optional)
 
 ## Download آماده (Ready to use)
 
-[**GitReminder.exe – نسخه فشرده ۸.۵ مگابایت**](https://github.com/yourusername/GitReminder/releases/latest/download/GitReminder.exe)
+[**GitReminder.exe – نسخه فشرده ۸.۵ مگابایت**]([https://github.com/yourusername/GitReminder/releases/latest/download/GitReminder.exe](https://github.com/mohrezkhorasani/GitReminder/releases/tag/R1))
 
 > فقط دانلود کن، اجرا کن، و دیگه هیچوقت فراموش نمی‌کنی push کنی!
 
