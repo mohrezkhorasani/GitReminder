@@ -40,7 +40,7 @@ internal class Program
             Thread.CurrentThread.IsBackground = true;
             while (true)
             {
-                var current = GetVsProcessIds();
+                var current = GetVsProcessIds();    
 
                 if (vsProcessIds.Count > 0 && current.Count == 0)
                 {
